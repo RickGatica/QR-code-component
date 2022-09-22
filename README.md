@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
   - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
@@ -15,12 +14,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/images/preview.png)
 
 ### Links
 
-  - [Solution](https://www.frontendmentor.io/solutions/productpreviewcardcomponent-QeYrCZWydc)
-  - [Live Site](https://product-preview-card-component-ruddy.vercel.app/)
+  - [Solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qrcodecomponent-twtIaBgJP_)
+  - [Live Site](https://qr-code-component-smoky-eta.vercel.app/)
 
 ### Built with
 
